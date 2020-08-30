@@ -1,0 +1,13 @@
+=============== Aug 29, 2020 (CDT) ===============
+21:11:10.860791 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:11:10.866790 db@open opening
+21:11:10.868788 version@stat F·[] S·0B[] Sc·[]
+21:11:10.871812 db@janitor F·2 G·0
+21:11:10.871812 db@open done T·5.0224ms
+22:20:40.889685 memdb@flush N·43216 S·3MiB
+22:20:40.914687 memdb@flush created L0@3 N·43216 S·854KiB "loc..seq,v25":"version,v1"
+22:20:40.914687 version@stat F·[1] S·854KiB[854KiB] Sc·[0.25]
+22:20:40.916689 memdb@flush committed F·1 T·27.0047ms
+22:20:40.917691 journal@remove removed @1
+22:54:03.565474 db@close closing
+22:54:03.566476 db@close done T·1.0022ms
